@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Document</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="css/stylesheet.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="css/slick.css">
+	<link rel="stylesheet" type="text/css" href="css/slick-theme.css">
+	
+	<script type="text/javascript" src="slick/slick.min.js"></script>
+</head>
+
+<body>
+	<div class="container-fluid">
+			<div class="slick-carousel carousel">
+					<div class="slide"><div class="slide-content">1 your content</div></div>
+					<div class="slide"><div class="slide-content">2 your content</div></div>
+					<div class="slide"><div class="slide-content">3 your content</div></div>
+					<div class="slide"><div class="slide-content">4 your content</div></div>
+					<div class="slide"><div class="slide-content">5 your content</div></div>
+				</div>
+
+		<div class="container">
+			<div class="content">
+					<div class="col-md-3 col-sm-6 col-xs-12 pencil">
+					<a href="#"><img src="Images/PencilIcon.png" alt="AppDesign"></a>
+					
+					<h3 class="contentheader">Web & App Design</h3>
+					<p>Nam liber tempor cum soluta nobis
+						<br/>eleifend option congue nihil imperdiet
+						<br/>doming id quod mazim</p>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 development ">
+					<a href="#">
+						<img src="Images/Development.png" alt="AppDesign">
+					</a>
+					<h3>Development</h3>
+					<p>Lorem ipsum dolor sit amet, adipiscing
+						<br/>elit, sed diam nonummy nibh esuimod
+						<br/>tincidunt u laoreet</p>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 customization">
+					<a href="#">
+						<img src="Images/Customization.png" alt="AppDesign">
+					</a>
+					<h3>Customization</h3>
+					<p>Nam liber tempor cum soluta nobis
+						<br/>eleifend option congue nihil imperdiet
+						<br/>doming id quod mazim</p>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 marketing">
+					<a href="#">
+						<img src="Images/Marketing.png" alt="AppDesign">
+					</a>
+					<h3>Marketing</h3>
+					<p>Nam liber tempor cum soluta nobis
+						<br/>eleifend option congue nihil imperdiet
+						<br/>doming id quod mazim</p>
+				</div>
+			</div>
+		</div>
+		<div class="realization">
+			<h3><strong>Waxom is Realization of your Ideas.</strong></h3>
+			<p class="realizationcontent">Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam
+				<br/>processus dynamicus, qui sequitur mutationem consuetudium.</p>
+			<div class="realizationimg">
+				<img src="Images/Realizationimg.jpg" alt="Realizationimage">
+			</div>
+		</div>
+		<div class="purchasenow">
+			<div class="row">
+				<div class="col-sm-8 purchasecontent">
+					<h3 class=""> Waxom Multipurpose Wordpress Theme</h3>
+					<p>Don't Forget to Rate the Template Thanks so much!</p>
+				</div>
+				<div class="col-sm-4 purchasebutton">
+					<p>
+						<input class="favorite styled" type="button" value="PURCHASENOW">
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="Project">
+				<h3>Our Latest Projects.</h3>
+				<p>Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam
+					<br/>processus dynamicus, qui sequitur mutationem consuetudium</p>
+				<ul>
+					<li>
+						<input class="all" type="button" value="All">
+					</li>
+					<li>
+						<input class="WebDesign" type="button" value="WebDesign">
+					</li>
+					<li>
+						<input class="Mobile_App" type="button" value="Mobile App">
+					</li>
+					<li>
+						<input class="illustration" type="button" value="illustration">
+					</li>
+					<li>
+						<input class="Photography" type="button" value="Photography">
+					</li>
+				</ul>
+			</div>
+			<div class="row">
+				<div class="col-md-4 projectblock1">
+					<a href="#"><img src="Images/Claritas.jpg" alt="Claritasimage"></a>
+					<div class="projecttext">
+						<p>Claritas Etiam Processus
+							<br/>
+						</p>
+						<p class="projectsmalltext">Photography, Nature</p>
+					</div>
+				</div>
+				<div class="col-md-4 projectblock1">
+					<img src="Images/QuamImage.jpg" alt="Quamimage">
+					<div class="projecttext">Quam Nutamus Farum usus Lsqsntis
+						<br/>
+						<p class="projectsmalltext">Graphic Design, Mock-Up</p>
+					</div>
+				</div>
+				<div class="col-md-4 projectblock1">
+					<img src="Images/Usus.jpg" alt="Usus">
+					<div class="projecttext">Usus Legentis Videntur
+						<br/>
+						<p class="projectsmalltext">Photography, Holiday</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 projectblock2">
+					<img src="Images/ClaritasEtiam1.jpg" alt="Claritasimage">
+					<div class="projecttext">Claritas Etiam Processus
+						<br/>
+						<p class="projectsmalltext">Photography, Nature</p>
+					</div>
+				</div>
+				<div class="col-md-4 projectblock2">
+					<img src="Images/Quam1.jpg" alt="Quamimage">
+					<div class="projecttext">Quam Nutamus Farum usus Lsqsntis
+						<br/>
+						<p class="projectsmalltext">Graphic Design, Mock-Up</p>
+					</div>
+				</div>
+				<div class="col-md-4 projectblock2">
+					<img src="Images/Usus1.jpg" alt="Usus">
+					<div class="projecttext">Usus Legentis Videntur
+						<br/>
+						<p class="projectsmalltext">Photography, Holiday</p>
+					</div>
+				</div>
+			</div>
+			<div class="row Load">
+				<div class="col-md-12">
+					<input class="Loadbutton" type="button" value="Load More">
+				</div>
+			</div>
+		</div>
+		<div class="=waxomvideo">
+			<iframe class="waxomvideo" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
+        </div>
+        <div class="container">
+		<div class="row">
+			<div class="col-sm-4 Mobileimg">
+				<img src="Images/ExcellentMobile.jpg" alt="MobileImage">
+			</div>
+			<div class="col-sm-8 MobileContent">
+				<div>
+					<h3><strong>Excellent For Mobile Devices.</strong></h3>
+				</div>
+				<div>
+					<p>Qisi enim ad minim veniam, quis nostured exerci tation ullamcorper suscipit lobortis nisi ut aliquip ex ea commodo consequat. Investigationes demostrativerunt leclegunt saepius claritas Eodem modo typi. legere me lius quod li legunt saepius claritas Eodem modo typi. qui nunc nobis videntur parum clari,fiant sollemnes in futurum.</p>
+				</div>
+				<div class="list">
+					<ul>
+						<li> <span><img src="Images/ExcellentArrow.png" alt="ExcellentArrow"></span>
+							<span>Nam liber tempor cum soluta nobis eleifend option.</span>
+						</li>
+						<li> <span><img src="Images/ExcellentArrow.png" alt="ExcellentArrow"></span>
+							<span>Option congue nihil impperdiet doming id quod mazim placerat facer</span>
+						</li>
+						<li> <span><img src="Images/ExcellentArrow.png" alt="ExcellentArrow"></span>
+							<span>Eodem  modo typi,qui nunc nobis videntur parum futurum</span>
+						</li>
+						<li> <span><img src="Images/ExcellentArrow.png" alt="ExcellentArrow"></span>
+							<span>Investigattiones demostrativerunt lectores</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+        </div>
+    </div>
+		<div class="counters">
+			<div class="counterinner">
+				<div class="clients">
+					<img src="Images/Clients.png" alt="clients">
+					<p class="countersnumbersize">3587</p>
+					<p>SATISFIED CLIENTS</p>
+				</div>
+				<div class="coffee">
+					<img src="Images/Coffee.png" alt="clients">
+					<p class="countersnumbersize">207</p>
+					<p>CUPS OF COFFEE</p>
+				</div>
+				<div class="blogs">
+					<p>
+						<img src="Images/Blogs.png" alt="clients">
+					</p>
+					<p class="countersnumbersize">2500</p>
+					<p>BLOG POSTS</p>
+				</div>
+				<div class="likes">
+					<img src="Images/Likes.png" alt="clients">
+					<p class="countersnumbersize">873</p>
+					<p>LIKES</p>
+				</div>
+				<div class="launched">
+					<img src="Images/Launched.png" alt="clients">
+					<p class="countersnumbersize">900</p>
+					<p>WE LAUNCHEDS</p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="post">
+				<h2>Recent Posts.</h2>
+				<p class="posttext">Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam
+					<br/>processus dynamicus. qui sequitur mutationem consuetudium.</p>
+				<div class="row">
+					<div class="col-md-4">
+						<img src="Images/Recentpost1.jpg" alt="Claritasimage">
+						<div class="posttext">Lorem ipsum dolor Sit
+							<br/>
+							<p class="prostsmalltext">Claritas est etlam processus dynamicus. qui sequitur mutationem consuetudium.</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<p>
+							<img src="Images/Recentpost2.jpg" alt="Quamimage">
+						</p>
+						<div class="posttext">Lorem ipsum dolor Sit
+							<br/>
+							<p class="prostsmalltext">Clarltas est etlam processus dynamlcus. qui sequitur mutatlonem consuetudlum.</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<img src="Images/Recentpost3.jpg" alt="Usus">
+						<div class="posttext">Lorem ipsum dolor Sit
+							<br/>
+							<p class="prostsmalltext">Clarltas est etlam processus dynamlcus. qui sequitur mutatlonem consuetudlum.</p>
+						</div>
+					</div>
+				</div>
+				<div>
+					<p>
+						<img src="Images/Recentarrowleft.png" alt="Recentarrowleft"><span class="recentarrows"></span>
+						<img src="Images/Recentarrow.png" alt="Recentarrow">
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="partners">
+			<img src="Images/Partners.jpg" alt="Partners">
+			<div class="row partners-row">
+				<div class="col-2 Partnerlogo1">
+					<img src="Images/barber.png" alt="barber">
+				</div>
+				<div class="col-2 Partnerlogo2">
+					<img src="Images/delicious.png" alt="delicious">
+				</div>
+				<div class="col-2 Partnerlogo3">
+					<img src="Images/designers.png" alt="designers">
+				</div>
+				<div class="col-6 Partnerlogo4">
+					<img src="Images/cafeRoyal.png" alt="cafeRoyal">
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="container">
+				<div class="row footer-row">
+					<div class="col-md-3 footerlogo">
+						<img src="Images/footerwaxom.png" alt="footerwaxom">
+						<div class="footercontent">Lorem ipsum dolor sit amet. consec- tetuer adipiscing elit. sed diam nonummy nibh euismod tincidunt ut Iaoreet dolore magna aliquam erat volutpat ut wisi enim ad minim veniam. quis nostrud exerci suscipit lobortis claritatem. volutpat ut wisi enim ad minim veniam. quis nostrud exerci suscipit lobortis claritatem.</div>
+						<div class="footerread">Read More <i class="fa fa-caret-right"></i>
+						</div>
+					</div>
+					<div class="col-md-3 footerrecentpost">
+						<h3 class="recentheader">Recent Posts</h3>
+						<div class="recentsection1">
+							<p class="recentsecdates">september 08.2015</p>
+							<p>Lorem ipsum dolor sit amet.consec- tetuer adipiscing elit</p>
+						</div>
+						<div class="recentsection2">
+							<p class="recentsec2date">september 08.2015</p>
+							<p class="recentsec2text">Diam nonummy nibh eulsmod tincld- unt ut laoreet dolore magna</p>
+						</div>
+						<div class="recentsection3">
+							<p>september 08.2015</p>
+							<p>Claritas est etiam processus dynamic- us. qui sequitur mutationem per seac- ula quarta decima</p>
+						</div>
+					</div>
+					<div class="col-md-3 footertwitter">
+						<h3 class="recentheader">Our Twitter</h3>
+						<div class="twittersection1"> <a href="mailto: abc@example.com">@waxom</a>Cum soluta nobis eleifend option cangue nihil imperdiet doming
+							<p class="twitterhour">3 min ago</p>
+						</div>
+						<div class="twittersection2">
+							<p>Mirum est <a href="#">#envato</a>
+								gothica. quam nunc putamus parum anteposuerit litterarum</p>
+							<p class="">5 hours ago</p>
+						</div>
+						<div class="twittersection3">
+							<p>Soluta nobis option blt.ly/1Hnls07</p>
+							<p>20 days ago</p>
+						</div>
+					</div>
+					<div class="col-md-3 footerdribble">
+						<h3 class="recentheader">Dribbble Widget</h3>
+						<div class="row dribble-row">
+							<div class="col-md-6 dribbleblock">
+								<img src="Images/footerImg-1.jpg" alt="block1">
+							</div>
+							<div class="col-md-6 dribbleblock">
+								<img src="Images/footerImg-2.jpg" alt="block2">
+							</div>
+						</div>
+						<div class="row dribble-row">
+							<div class="col-md-6 dribbleblock">
+								<img src="Images/footerImg-3.jpg" alt="block3">
+							</div>
+							<div class="col-md-6 dribbleblock">
+								<img src="Images/footerImg-4.jpg" alt="block4">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<!-- copyright section starts -->
+
+<div class="copyright-OuterContainer">
+		<div class=" copyright-InnerContainer">
+			<div class="copyright-Text">
+				  <ul>
+					 <li class="liStyle"><a href="#">Copyright &copy; 2015 Waxom</a></li>
+					 <li class="liStyle"><a href="#">Privacy Policy</a></li>
+					 <li class="liStyle"><a href="#">FAQ</a></li>
+					 <li><a href="#">Support</a></li>
+				  </ul>
+			  </div>
+			  <div class="copyright-Text">
+					<ul>
+						  <li class="liStyle"><a href="#">Designed by ThemeFire</a></li>
+						  <li><a href="#">Only on Envato Market</a></li>
+					</ul> 
+			  </div>
+  
+		</div>
+  
+	 </div>
+
+	</div>
+	<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="js/bannerslider.js"></script>
+	<script type="text/javascript" src="js/slick.js"></script>
+	<script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<!-- <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script> -->
+  <!-- <script src="css/slick.min.js" type="text/javascript" charset="utf-8"></script> -->
+
+</body>
+
+</html>
+
+<!-- <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+  <script src="css/slick.min.js" type="text/javascript" charset="utf-8"></script> -->
+  
