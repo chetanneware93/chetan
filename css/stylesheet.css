@@ -52,6 +52,9 @@ button.btn.btn-default.loadButtonInner.btn-lg {
     font-size: 45px;
    
 }
+.header2-paragraph p{
+
+}
 .getstartButton{
     margin-top: 5%;
 }
@@ -704,6 +707,71 @@ padding: 30px;
    border-right: 1px solid gray;
    
 }
+
+/*Media Query*/
+@media only screen and (max-width: 768px) {
+
+ .nav-list ul li{
+    display: inline-block;
+    font-size: 10px;
+    color: gray;
+   margin: 0px 20px;
+   text-decoration: none;
+ }
+ .nav-list ul li a{
+    color: white;
+    font-size: 10px;
+}
+ .Logo img{
+    max-width: 70%;
+    max-height: 70%;
+}
+.nav-list ul{
+    list-style-type: none;
+ }
+ /* media query */
+ @media only screen and (max-width: 768px) {
+ 
+    .Logo img{
+        max-width: 70%;
+    }
+  .nav-list ul li{
+     display: inline-block;
+     font-size: 10px;
+     color: gray;
+    margin: 0px 20px;
+    text-decoration: none;
+  }
+  .nav-list ul li a{
+     color: white;
+     font-size: 10px;
+ }
+  .Logo img{
+     max-width: 70%;
+     max-height: 70%;
+ }
+ .nav-list ul{
+     list-style-type: none;
+  }
+  .header h2{
+      font-size: 15px;
+  }
+  .header2 h1{
+      font-size: 25px;
+  }
+ .header2-paragraph p{
+     line-height: 15px;
+     font-size: 10px;
+ } 
+ .getstartButton{
+     margin-top: 5%;
+ }
+.getstart{
+    width: 15%;
+}
+
+
+
 
 /*Media Queries*/
 
